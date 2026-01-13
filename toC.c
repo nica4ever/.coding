@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main ()
+int main (void)
 {
-    print ("To C, or not to C: that is the question");
+    printf ("To C, or not to C: that is the question");
     return 0;
 }
